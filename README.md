@@ -15,4 +15,15 @@ Heute habe ich am Modul 319 gearbeitet. Ich habe all meine Ziele erreicht, das P
 - [ ] Handlungsziel 6 fertig machen und beenden
 - [ ] Mahara schön gestalten für die abgabe
 - [ ] Randomnumber guesser nochmals programmiern
+
+Heute habe ich am Modul 319 weiter gearbeitet. Es ist sehr gut gelaufen und ich bin fertig geworden, mit beschreiben von den Handlungszielen und mit dem Beispiel code schreiben nur hat es etwas länger gedauert als gedacht so hatte ich keine zeit mehr mit dem Programmiere Projekt zu beginnen und muss das auf nächste Woche verschieben. 
+(57 Wörter)
+
+## Arbeitspakete für den 3.11.2023
+-	[ ] Das Projekt beginnen im Internet recherchieren was ich machen soll muss
+-	[ ] Projekt sanke spiel beginnen mit dem code
+-	[ ] Weiter Coden am Projekt
+-	[ ] Eventuell Modul 162 nacharbeiten oder weiterarbeiten
+
+
       
