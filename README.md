@@ -4,26 +4,26 @@ Ich möchte in den nächsten 2 Wochen die Abgaben für das Modul 319 machen und 
 
 ## Arbeitspakete für den 20.10.2023
 
-- [ ] Zusammenfassungen schreiben für Mahra für mindestens 2 Lernziele
-- [ ] Beispiel code schreiben für Mahra
+- [x] Zusammenfassungen schreiben für Mahra für mindestens 2 Lernziele
+- [x] Beispiel code schreiben für Mahra
 
       
 Heute habe ich am Modul 319 gearbeitet. Ich habe all meine Ziele erreicht, das Programmieren fällt mir von mal zumal immer leichter und macht immer mehr Spass. Das Zusammenfassen, besser gesagt, die Dokumentation zumachen macht mir nicht so Spass, aber es gehört dazu. Dann habe ich mir noch Überlegungen zum Projekt gemacht, was ich dann in 2-4 Wochen machen will. (60)     
 
 ## Arbeitspakete für den 27.10.2023
-- [ ] Handlungsziel 1-5 durch gehn und korrigern usw.
-- [ ] Handlungsziel 6 fertig machen und beenden
-- [ ] Mahara schön gestalten für die abgabe
-- [ ] Randomnumber guesser nochmals programmiern
+- [x] Handlungsziel 1-5 durch gehn und korrigern usw.
+- [x] Handlungsziel 6 fertig machen und beenden
+- [x] Mahara schön gestalten für die abgabe
+- [x] Randomnumber guesser nochmals programmiern
 
 Heute habe ich am Modul 319 weiter gearbeitet. Es ist sehr gut gelaufen und ich bin fertig geworden, mit beschreiben von den Handlungszielen und mit dem Beispiel code schreiben nur hat es etwas länger gedauert als gedacht so hatte ich keine zeit mehr mit dem Programmiere Projekt zu beginnen und muss das auf nächste Woche verschieben. 
 (57 Wörter)
 
 ## Arbeitspakete für den 3.11.2023
--	[ ] Plannung fertig stellen Budgetplaner
--	[ ] Randomnuberguesser nochmals programmiren 
--	[ ] Das Projekt beginnen im Internet recherchieren was ich machen soll muss
--	[ ] Eventuell Modul 162 nacharbeiten oder weiterarbeiten
+-	[x] Plannung fertig stellen Budgetplaner
+-	[x] Randomnuberguesser nochmals programmiren 
+-	[x] Das Projekt beginnen im Internet recherchieren was ich machen soll muss
+-	[x] Eventuell Modul 162 nacharbeiten oder weiterarbeiten
 
 
       
