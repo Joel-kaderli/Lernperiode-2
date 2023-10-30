@@ -20,9 +20,9 @@ Heute habe ich am Modul 319 weiter gearbeitet. Es ist sehr gut gelaufen und ich 
 (57 Wörter)
 
 ## Arbeitspakete für den 3.11.2023
+-	[ ] Plannung fertig stellen Budgetplaner
+-	[ ] Randomnuberguesser nochmals programmiren 
 -	[ ] Das Projekt beginnen im Internet recherchieren was ich machen soll muss
--	[ ] Projekt sanke spiel beginnen mit dem code
--	[ ] Weiter Coden am Projekt
 -	[ ] Eventuell Modul 162 nacharbeiten oder weiterarbeiten
 
 
