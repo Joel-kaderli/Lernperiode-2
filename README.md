@@ -25,5 +25,13 @@ Heute habe ich am Modul 319 weiter gearbeitet. Es ist sehr gut gelaufen und ich 
 -	[x] Das Projekt beginnen im Internet recherchieren was ich machen soll muss
 -	[x] Eventuell Modul 162 nacharbeiten oder weiterarbeiten
 
+Heute am Nachmittag habe ich mit meiner Gruppe die Planung für den Bugedet Planer gemacht. Wir sind fertig geworden. Danach habe ich an meinem Numberguesser weiter gearbeitet und fertig gestellt, das hat aber länger gedauert, als ich gedacht habe (ich habe den Code dazu hochgeladen) und so hatte ich keine Zeigt mehr, um mit meinem Projekt zu beginnen und habe lieber für Modul 162 noch Zeit aufgewendet, da ich da ein wenig hinterher war. Das habe ich diese Woche gemacht. (81 Wörter)
+## Arbeitspakete für den 10.11.2023
+-	[ ] Das Projekt beginnen im Internet recherchieren was ich machen soll muss
+-	[ ] Planen wie ich Programmieren wil
+-	[ ] Coden am Projekt
+-	[ ] Eventuell Modul 162 nacharbeiten oder weiterarbeiten
+
+
 
       
