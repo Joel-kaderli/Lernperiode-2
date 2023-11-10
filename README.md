@@ -31,6 +31,14 @@ Heute am Nachmittag habe ich mit meiner Gruppe die Planung für den Bugedet Plan
 -	[X] Planen wie ich Programmieren wil
 -	[ ] Coden am Projekt
 -	[ ] Eventuell Modul 162 nacharbeiten oder weiterarbeiten
+-	[ ] 
+
+Heute Nachmittag habe ich als erstes mich informiert wie ich ein kleines Sanke spiel programmieren kann und wie ich das am besten mache ich habe mich jetzt dazu entschieden mit einem Tutoriell zuarbeiten. Danach habe ich angefangen mit dem programmieren, ich habe mich entschieden mit Winforms zumachen. Nach dem Input habe ich mich mit meiner gruppe zusammen gesetzt um am Budgetplaner zuarbeiten. (62)
+
+## Arbeitspakete für den 17.11.2023, für den DSL Unterricht
+-	[ ] Modul 162 nacharbeitern
+-	[ ] Snake Projekt weiter Coden
+-	[ ] Eventuell Budgetplaner an sonsten Modul 162 weiter nacharbeiten.
 
 
 
