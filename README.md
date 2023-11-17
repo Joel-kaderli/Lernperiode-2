@@ -40,6 +40,18 @@ Heute Nachmittag habe ich als erstes mich informiert wie ich ein kleines Sanke s
 -	[ ] Snake Projekt weiter Coden
 -	[ ] Eventuell Budgetplaner an sonsten Modul 162 weiter nacharbeiten.
 
+ Diese Woche im Distanz Unterricht habe ich am Modul 162 zwei Arbeitspakete gemacht, um aufzuholen in dem Modul 162. Danach habe ich am snake spiel weiter programmiert, besser gesagt angefangen mit dem Winforms und mit dem Video fort gefahren. Dann habe ich noch kurz an dem Bugdetplaner weiter gearbeitet, alleine.
+
+      <img width="498" alt="image" src="https://github.com/Joel-kaderli/Lernperiode-2/assets/142605851/f98b8397-4838-406d-9084-6d5405650745">
+Das hier ist mein Artefakt.
+
+## Arbeitspakete für den 24.11.2023
+
+-[] Budget planer Arbeit mit der Gruppe, absprechen was noch zumachen ist
+-[] Budgetpalner weiter arbeiten
+-[]Snake game weiter coden mit Tutoriell
+-[] Modul 162 vorarbeiten und lernen
+
 
 
       
