@@ -52,6 +52,15 @@ Das hier ist mein Artefakt.
 -[]Snake game weiter coden mit Tutoriell
 -[] Modul 162 vorarbeiten und lernen
 
+Heute Nachmittag habe ich mich mit meiner Gruppe für den Budgetassistent zusammen gesetzt, und haben geschaut was zumachen ist, dann haben Christian und ich unsere Programme zusammen geführt. Danach habe ich für das Modul 162 meine Hausaufgaben gemacht und ein wenig dafür gelernt. Nach den Hausaufgaben im Modul 162 habe ich an meinem Kleinen Snake spiel projekt weitergearbeitet. (58)
+
+## Arbeitspakete für den 1.12.2023
+
+-	[ ] Lernen für den Modul 162 Test, alles repetieren und Aufgaben die schwierig sind wiederholen
+-	[ ] Snake spiel, die Tasten Belegung machen für das Bewegegen der schlang und die Äpfel ein fügen das diese sich bewegen
+-	[ ] [ ] Snake spiel, die Tasten Belegung machen für das Bewegegen der schlang und die Äpfel ein fügen das diese sich bewegen
+
+
 
 
       
