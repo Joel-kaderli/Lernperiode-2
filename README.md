@@ -63,7 +63,7 @@ Heute Nachmittag habe ich mich mit meiner Gruppe für den Budgetassistent zusamm
       Heute am Nachmittag habe ich für das Modul 162 gelernt, da wir nächste Woche eine Test in diesem Modul schreiben und ich noch nicht alles ganz beherrsche. Daher habe ich mich nicht an die Arbeitspakete gehalten, da ich für das Lernen länger brauchte als gedacht. Aber es hat mir es gebracht da ich es jetzt gut versteh.(57 Wörtet)
       
 ## Arbeitspakete für den 8.12.23
--	[ ] Snake spiel, die Tasten Belegung machen für das Bewegegen der schlang und die Äpfel ein fügen das diese sich bewegen
+-	[ ] Im Laufe der Woche noch den Letzten Auftrag zum Modul 162 machen als übung für den Test
 -	[ ] Snake spiel, die Tasten Belegung machen für das Bewegegen der schlang und die Äpfel ein fügen das diese sich bewegen 
 -	[ ]Sachen für Module nachholen oder sonst weiter coden am snake spiel
 
