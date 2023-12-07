@@ -67,8 +67,15 @@ Heute Nachmittag habe ich mich mit meiner Gruppe für den Budgetassistent zusamm
 -	[ ] Snake spiel, die Tasten Belegung machen für das Bewegegen der schlang und die Äpfel ein fügen das diese sich bewegen 
 -	[ ]Sachen für Module nachholen oder sonst weiter coden am snake spiel
 
+<img width="414" alt="image" src="https://github.com/Joel-kaderli/Lernperiode-2/assets/142605851/16669ab0-83d9-4505-8a3b-66d662f776a9">
+Hier ist mein Artefakt für den Distanz Unterricht, Code Foto zur Tasten belegung.
 
+Diese Woche habe ich im Distanz Unterricht für den Modul Test 162 gelernt und den letzen Azftrag dazu gemacht. Auserdem habe ich mein Hausaufgaben für das Modul 117 gemacht weil ich noch ein wenig hinter ehr war gemacht und die Model Test dazu gelöst. Also hatte ich noch ein wenig zeit übrig um an meinem Kleinen Snake Projekt die Tasten Belegung zumachen. (63 Wörter)
 
+## Arbeitspakete für den 15.12.2023
+-	[ ] Im snake spiel die Äpfel einfügen und ein random objekt für erstellung von zufalls zahlen
+-	[ ] schlange trifften den Apfel = firsst den Apfel 
+-	[ ] Liste für schlange machen, körper usw. wenn mehr zeit schauen was ich weiter machen kann.
 
 
       
