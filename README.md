@@ -75,7 +75,7 @@ Diese Woche habe ich im Distanz Unterricht für den Modul Test 162 gelernt und d
 ## Arbeitspakete für den 15.12.2023
 -	[ ] Im snake spiel die Äpfel einfügen und ein random objekt für erstellung von zufalls zahlen
 -	[ ] schlange trifften den Apfel = firsst den Apfel 
--	[ ] Liste für schlange machen, körper usw. wenn mehr zeit schauen was ich weiter machen kann.
+-	[ ] Liste für schlange machen, körper usw. wenn mehr ich zeit habe schauen was ich weiter machen kann.
 
 
       
