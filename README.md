@@ -77,5 +77,12 @@ Diese Woche habe ich im Distanz Unterricht für den Modul Test 162 gelernt und d
 -	[ ] schlange trifften den Apfel = firsst den Apfel 
 -	[ ] Liste für schlange machen, körper usw. wenn mehr ich zeit habe schauen was ich weiter machen kann.
 
+Heute Nachmittag habe ich an meinem Programmiere Projekt Snake spiele weiter gearbeitet. Ich habe Äpfel auf das Spielfeld gebracht das die Schlange diese Essen kann. Dann habe ich versucht die Schlange zum bewegen zu bringen mit den Äpfeln die sie gefressen hat. Aber das ist nicht gegangen und ich werde das nächste Woche schauen das ich das noch hin bekomme da das das Spiel Funktion fertig macht.(68 Wörter)
+
+## Arbeitstakte für den 21.12.2023
+-	[ ] Die Schlange mit den Teile die sie hinter sich erzieht zum bewegen bringen so das die Teile nicht Random spawnen
+-	[ ] Modul Hausaufgaben machen für die Module 164 und 117.
+
+
 
       
