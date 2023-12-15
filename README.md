@@ -29,16 +29,16 @@ Heute am Nachmittag habe ich mit meiner Gruppe die Planung für den Bugedet Plan
 ## Arbeitspakete für den 10.11.2023
 -	[X] Das Projekt beginnen im Internet recherchieren was ich machen soll muss
 -	[X] Planen wie ich Programmieren wil
--	[ ] Coden am Projekt
--	[ ] Eventuell Modul 162 nacharbeiten oder weiterarbeiten
--	[ ] 
+-	[x] Coden am Projekt
+-	[x] Eventuell Modul 162 nacharbeiten oder weiterarbeiten
+
 
 Heute Nachmittag habe ich als erstes mich informiert wie ich ein kleines Sanke spiel programmieren kann und wie ich das am besten mache ich habe mich jetzt dazu entschieden mit einem Tutoriell zuarbeiten. Danach habe ich angefangen mit dem programmieren, ich habe mich entschieden mit Winforms zumachen. Nach dem Input habe ich mich mit meiner gruppe zusammen gesetzt um am Budgetplaner zuarbeiten. (62)
 
 ## Arbeitspakete für den 17.11.2023, für den DSL Unterricht
--	[ ] Modul 162 nacharbeitern
--	[ ] Snake Projekt weiter Coden
--	[ ] Eventuell Budgetplaner an sonsten Modul 162 weiter nacharbeiten.
+-	[x] Modul 162 nacharbeitern
+-	[x] Snake Projekt weiter Coden
+-	[x] Eventuell Budgetplaner an sonsten Modul 162 weiter nacharbeiten.
 
  Diese Woche im Distanz Unterricht habe ich am Modul 162 zwei Arbeitspakete gemacht, um aufzuholen in dem Modul 162. Danach habe ich am snake spiel weiter programmiert, besser gesagt angefangen mit dem Winforms und mit dem Video fort gefahren. Dann habe ich noch kurz an dem Bugdetplaner weiter gearbeitet, alleine.
 
