@@ -83,6 +83,8 @@ Heute Nachmittag habe ich an meinem Programmiere Projekt Snake spiele weiter gea
 -	[ ] Die Schlange mit den Teile die sie hinter sich erzieht zum bewegen bringen so das die Teile nicht Random spawnen
 -	[ ] Modul Hausaufgaben machen für die Module 164 und 117.
 
+In der zweiten Lernperiode des Lernateliers habe ich sehr oft an den Modulen weitergearbeitet, da diese schwieriger wurden und ich immer noch eine gute Note wollte habe ich in diese mehr Zeit investiert. Ich unter andrem Aufträge und die OBAs hier im Lernatelier gemacht. Ich habe auch für das Programmierprojekt einige meiner Aufgaben im Lernatelier gemacht. Unteranderem habe ich eine kleines Snake spiel programmiert, bei dem ich fast fertig wurde aber noch nicht ganz es fehlen noch einige Kleinigkeiten wie das Design, aber das ist nicht so schlimm das das design nicht so wichtig ist. Meine Arbeitspakte waren immer gut erreichbar manchmal musst ich aufgrund einer Abgabe in einem Modul das noch einschieben und habe dann eine anders Arbeitspakte nicht geschafft. In der 3 Lernperiode will ich für die Module mehr Zeit nehmen da es sich nicht lohnt ein Projekt anzufangen. (142 Wörter)
+
 
 
       
