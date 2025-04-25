@@ -1,0 +1,10 @@
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\bin\Debug\Snake_Winforms_Spiel.exe.config
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\bin\Debug\Snake_Winforms_Spiel.exe
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\bin\Debug\Snake_Winforms_Spiel.pdb
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\obj\Debug\Snake_Winforms_Spiel.csproj.AssemblyReference.cache
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\obj\Debug\Snake_Winforms_Spiel.Form1.resources
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\obj\Debug\Snake_Winforms_Spiel.Properties.Resources.resources
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\obj\Debug\Snake_Winforms_Spiel.csproj.GenerateResource.cache
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\obj\Debug\Snake_Winforms_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\obj\Debug\Snake_Winforms_Spiel.exe
+C:\Users\lungo\source\repos\Snake_Winforms_Spiel\obj\Debug\Snake_Winforms_Spiel.pdb
